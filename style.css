@@ -1,7 +1,7 @@
 body{
-	font-size: 30px;
+	font-size: 50px;
 	font-family: "Microsoft YaHei"; 
-	background-color: #fcfcfc;
+	background-color: #FCFCFC;
 }
 table{
 	width: 100%;
@@ -16,11 +16,14 @@ td{
 	width: 50%;
 }
 p{
-	font-size: 20px
+	font-size: 30px
 }
 #highlight{
 	color: red; 
 }
 #footer{
+	width:100%;
 	text-align: center;
+	position: fixed;
+	bottom: 0;
 }
