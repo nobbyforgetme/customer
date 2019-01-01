@@ -1,5 +1,5 @@
 body{
-	font-size: 55px;
+	font-size: 45px;
 	font-family: "Microsoft YaHei"; 
 	background-color: #FCFCFC;
 }
@@ -16,7 +16,7 @@ td{
 	width: 50%;
 }
 p{
-	font-size: 25px
+	font-size: 30px
 }
 #highlight{
 	color: red; 
